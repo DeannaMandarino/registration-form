@@ -15,6 +15,8 @@ This project showcases a registration form with various input fields, including 
 - File upload for profile pictures.
 - Terms and conditions checkbox.
 
+![Registration Form Screenshot](registrationForm_screenshot.png)
+
 ## Technologies Used
 
 - HTML
